@@ -41,7 +41,7 @@ Columns:
 Columns:
     Entity        Data Type    Default Value
     venue_id --> Integer       0
-    name     --> Text          ''  (Empty string)
+    name     --> Text          ''  (Empty string)  \n
     screens --> Text           ''  (Empty string)
     state --> Text             ''  (Empty string)
     country --> Text           ''  (Empty string)
